@@ -1,5 +1,5 @@
 # Dynamic QRIS Generator
-easy python based dynamic QRis generator
+easy python based dynamic QRIS generator
 
 
 ## Installation
