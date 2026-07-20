@@ -11,7 +11,14 @@ python -m venv <venv name>
 pip install -r requirements.txt
 ```
 ## How to Use
-Get QRIS string from OCR like google lens or else
+# Edit `main.py` file
+Edit these line. Get QRIS string from OCR like google lens or else
+```python
+#QRCode
+STATIC_QRIS = ""
+#default output folder
+Save_Folder = "./output"
+```
 ```bash
 python main.py <amount>
 ```
