@@ -19,6 +19,7 @@ STATIC_QRIS = ""
 #default output folder
 Save_Folder = "./output"
 ```
+# Run the program
 ```bash
 python main.py <amount>
 ```
